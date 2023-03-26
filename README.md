@@ -6,7 +6,8 @@
 
 <p>
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-<img src="https://img.shields.io/badge/OpenAI-282C34?logo=OpenAI&logoColor=7f00ff" alt="React logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/OpenAI-282C34?logo=OpenAI&logoColor=7f00ff" alt="OpenAI" title="OpenAI" height="25" />
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=43853D" alt="Node.js logo" title="Node.js" height="25" />
 <img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=green" alt="Express logo" title="Express.js" height="25" />
 <img src="https://img.shields.io/badge/Socket.IO-282C34?logo=Socket.IO&logoColor=d8d8d8" alt="Socket.io logo" title="Socket.io" height="25" />
 <img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind%20css&logoColor=38B2AC" alt="Tailwind logo" title="Tailwind" height="25" />
