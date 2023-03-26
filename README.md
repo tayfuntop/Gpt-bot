@@ -1,6 +1,6 @@
 [PROJECT LINK](https://www.tayfuntp.com)
 
-# CHAT GPT
+# GPT BOT
 
 ## 🛠  Technologies and tools
 
@@ -19,13 +19,13 @@
 
 Clone this repository on your local machine.
 <br>
-git clone https://github.com/tayfuntop/Chat-gpt.git
+git clone https://github.com/tayfuntop/Gpt-bot.git
 
 ## Use
 
 To use it after cloning the project:
 ```
-cd Chat-gpt
+cd Gpt-bot
 
 code .
 open terminal
