@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/Socket.IO-282C34?logo=Socket.IO&logoColor=d8d8d8" alt="Socket.io logo" title="Socket.io" height="25" />
 <img src="https://img.shields.io/badge/Tailwind-282C34?logo=tailwind%20css&logoColor=38B2AC" alt="Tailwind logo" title="Tailwind" height="25" />
 <img src="https://img.shields.io/badge/Ant%20Design-282C34?logo=ant-design&logoColor=07a5f9" alt="Antd logo" title="Antd" height="25" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 
 </p>
