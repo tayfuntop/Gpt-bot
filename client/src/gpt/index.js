@@ -164,7 +164,11 @@ const Gpt = () => {
                      {loading ? 'Düşünüyor..' : 'Çevrimiçi'}
                   </span>
                </div>
-               <div className='hover:scale-125 transition-transform '></div>
+               <div className='hover:scale-125 transition-transform '>
+                  <a target={'_blank'} href='https://www.instagram.com/tayfun_tp'>
+                     <img src={Logo} className='w-9' alt='' />
+                  </a>
+               </div>
             </div>
             <div
                id='scroll-id'
